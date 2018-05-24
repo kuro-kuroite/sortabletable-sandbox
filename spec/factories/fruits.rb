@@ -1,5 +1,5 @@
 FactoryBot.define do
   factory :fruit do
-    name "MyString"
+    name 'Apple'
   end
 end
